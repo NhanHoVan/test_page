@@ -1,0 +1,17 @@
+# Site settings
+title: Tên Blog
+description: "Write an awesome description for your new site here."
+theme: minima
+
+# URL settings
+baseurl: "/test_page"
+url: "https://conghcbapjp.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+permalink: /posts/:title/
