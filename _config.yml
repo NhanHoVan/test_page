@@ -5,7 +5,7 @@ theme: minima
 
 # URL settings
 baseurl: "/test_page"
-url: "https://conghcbapjp.github.io"
+url: "https://nhanhovan.github.io"
 
 # Build settings
 markdown: kramdown
